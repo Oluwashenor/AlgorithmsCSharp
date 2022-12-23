@@ -9,7 +9,8 @@
             //SockMerchant.sockMerchantExecutor();
             //LibraryFine.libraryFineExecutor();
             //TimeConversion.timeConversionExecutor();
-            PlusMinus.plusMinusExecutor();
+            //PlusMinus.plusMinusExecutor();
+            ElectronicShop.ElectronicShopExecutor();
 
         }
     }
