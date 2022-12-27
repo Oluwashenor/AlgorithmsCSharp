@@ -10,7 +10,8 @@
             //LibraryFine.libraryFineExecutor();
             //TimeConversion.timeConversionExecutor();
             //PlusMinus.plusMinusExecutor();
-            ElectronicShop.ElectronicShopExecutor();
+            //ElectronicShop.ElectronicShopExecutor();
+            Mini_Max.Mini_MaxExecutor();
 
         }
     }

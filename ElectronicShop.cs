@@ -24,9 +24,10 @@ namespace AlgorithmsCSharp
         //int: the maximum that can be spent, or -1 if it is not possible to buy both items
         public static void ElectronicShopExecutor()
         {
-            int b = 60;  
+            int b = 60;
             int[] keyboards = new int[] { 40, 50, 60 };
             int[] drives = new int[] { 5, 8, 12 };
+            int[] array3 = { 1, 2, 3, 4, 5, 6 };
             int result = getMoneySpent(keyboards, drives, b);
             Console.WriteLine(result);
         }
