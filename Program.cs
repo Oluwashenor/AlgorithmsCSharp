@@ -11,8 +11,8 @@
             //TimeConversion.timeConversionExecutor();
             //PlusMinus.plusMinusExecutor();
             //ElectronicShop.ElectronicShopExecutor();
-            Mini_Max.Mini_MaxExecutor();
-
+            //Mini_Max.Mini_MaxExecutor();
+            LonelyInteger.LonelyintegerExecutor();
         }
     }
 
